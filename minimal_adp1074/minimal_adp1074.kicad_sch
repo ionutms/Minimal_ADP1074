@@ -5,6 +5,428 @@
 	(uuid "96a0da81-1285-47de-a7eb-fcaba655ea72")
 	(paper "A3")
 	(lib_symbols
+		(symbol "DIODES_1N4148WX-TP_DATA_BASE:D_1N4148WX-TP"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "100 V"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "diode_footprints:SOD323"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD-323).pdf"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Zener SMD 100 V"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Diode Type" "Zener"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "1N4148WX-TP"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Micro Commercial Components"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Current (A)" "0.0"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "1N4148WX-TP"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "D_1N4148WX-TP"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/1N4148WX-TP"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "D_1N4148WX-TP_1_0"
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 1.27 1.27) (xy 1.27 0) (xy -1.27 1.905) (xy -1.27 -1.905) (xy 1.27 0) (xy 1.27 -1.27)
+						(xy 1.905 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "INDUCTORS_CB2518T_DATA_BASE:L_CB2518T102K"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1000.0 µH"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "inductor_footprints:CB2518T"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/eu/detail?pn=CB2518T102K&u=M"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "INDUCTOR SMD 1000.0 µH ±10%"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "CB2518T102K"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Taiyo Yuden"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Current (A)" "0.1"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Resistance (Ω)" "0.031"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "CB2518T"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "L_CB2518T102K"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "±10%"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CB2518T102K"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "L_CB2518T102K_1_1"
+				(arc
+					(start -5.08 0.0056)
+					(mid -3.81 1.27)
+					(end -2.54 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 0.0056)
+					(mid -1.27 1.27)
+					(end 0 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.0056)
+					(mid 1.27 1.27)
+					(end 2.54 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 2.54 0.0056)
+					(mid 3.81 1.27)
+					(end 5.08 0.0056)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "TRANSFORMERS_PL160X9-102L_DATA_BASE:T_PL160X9-102L-BLD"
 			(pin_names
 				(offset 0.254)
@@ -809,7 +1231,7 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at 10.16 22.86 0)
+				(at 12.7 20.32 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -818,7 +1240,7 @@
 				)
 			)
 			(property "Value" "ADP1074ACCZ-R7"
-				(at 10.16 20.32 0)
+				(at 12.7 17.78 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -827,7 +1249,7 @@
 				)
 			)
 			(property "Footprint" "analog_devices_footprints:CC-24-6_ADI"
-				(at 10.16 -25.4 0)
+				(at 12.7 -22.86 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -838,7 +1260,7 @@
 				)
 			)
 			(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adp1074.pdf"
-				(at 10.16 -20.32 0)
+				(at 12.7 -17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -849,7 +1271,7 @@
 				)
 			)
 			(property "Description" "Isolated, Synchronous Forward Controller with Active Clamp and iCoupler"
-				(at 10.16 -22.86 0)
+				(at 12.7 -20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -859,7 +1281,7 @@
 				)
 			)
 			(property "MPN" "ADP1074ACCZ-R7"
-				(at 10.16 -27.94 0)
+				(at 12.7 -25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -870,8 +1292,8 @@
 			)
 			(symbol "U_ADP1074ACCZ-R7_0_1"
 				(rectangle
-					(start -10.16 17.78)
-					(end 10.16 -17.78)
+					(start -12.7 16.51)
+					(end 12.7 -16.51)
 					(stroke
 						(width 0)
 						(type default)
@@ -881,7 +1303,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 15.24 0)
+					(at -15.24 13.97 0)
 					(length 2.54)
 					(name "NGATE"
 						(effects
@@ -899,7 +1321,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 12.7 0)
+					(at -15.24 11.43 0)
 					(length 2.54)
 					(name "PGATE"
 						(effects
@@ -917,25 +1339,7 @@
 					)
 				)
 				(pin power_out line
-					(at -12.7 10.16 0)
-					(length 2.54)
-					(name "PGND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -12.7 7.62 0)
+					(at -15.24 6.35 0)
 					(length 2.54)
 					(name "AGND1"
 						(effects
@@ -953,7 +1357,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -12.7 5.08 0)
+					(at -15.24 3.81 0)
 					(length 2.54)
 					(name "VREG1"
 						(effects
@@ -971,7 +1375,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 2.54 0)
+					(at -15.24 1.27 0)
 					(length 2.54)
 					(name "VIN"
 						(effects
@@ -989,7 +1393,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 0 0)
+					(at -15.24 -1.27 0)
 					(length 2.54)
 					(name "EN"
 						(effects
@@ -1007,7 +1411,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 -2.54 0)
+					(at -15.24 -3.81 0)
 					(length 2.54)
 					(name "CS"
 						(effects
@@ -1025,7 +1429,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 -5.08 0)
+					(at -15.24 -6.35 0)
 					(length 2.54)
 					(name "RT"
 						(effects
@@ -1043,7 +1447,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 -7.62 0)
+					(at -15.24 -8.89 0)
 					(length 2.54)
 					(name "SYNC"
 						(effects
@@ -1061,7 +1465,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -12.7 -10.16 0)
+					(at -15.24 -11.43 0)
 					(length 2.54)
 					(name "SS1"
 						(effects
@@ -1079,7 +1483,7 @@
 					)
 				)
 				(pin unspecified line
-					(at -12.7 -12.7 0)
+					(at -15.24 -13.97 0)
 					(length 2.54)
 					(name "DMAX"
 						(effects
@@ -1096,44 +1500,8 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 -15.24 0)
-					(length 2.54)
-					(name "MODE"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin power_out line
-					(at 12.7 15.24 180)
-					(length 2.54)
-					(name "AGND2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 12.7 12.7 180)
+					(at -2.54 -19.05 90)
 					(length 2.54)
 					(name "AGND1"
 						(effects
@@ -1150,8 +1518,26 @@
 						)
 					)
 				)
+				(pin power_out line
+					(at 2.54 -19.05 90)
+					(length 2.54)
+					(name "AGND2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin bidirectional line
-					(at 12.7 10.16 180)
+					(at 15.24 13.97 180)
 					(length 2.54)
 					(name "SR1"
 						(effects
@@ -1169,7 +1555,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 7.62 180)
+					(at 15.24 11.43 180)
 					(length 2.54)
 					(name "SR2"
 						(effects
@@ -1187,7 +1573,7 @@
 					)
 				)
 				(pin power_out line
-					(at 12.7 5.08 180)
+					(at 15.24 8.89 180)
 					(length 2.54)
 					(name "PGND2"
 						(effects
@@ -1205,7 +1591,7 @@
 					)
 				)
 				(pin power_out line
-					(at 12.7 2.54 180)
+					(at 15.24 6.35 180)
 					(length 2.54)
 					(name "AGND2"
 						(effects
@@ -1223,7 +1609,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 12.7 0 180)
+					(at 15.24 3.81 180)
 					(length 2.54)
 					(name "VREG2"
 						(effects
@@ -1241,7 +1627,7 @@
 					)
 				)
 				(pin power_in line
-					(at 12.7 -2.54 180)
+					(at 15.24 1.27 180)
 					(length 2.54)
 					(name "VDD2"
 						(effects
@@ -1259,7 +1645,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 12.7 -5.08 180)
+					(at 15.24 -1.27 180)
 					(length 2.54)
 					(name "OVP"
 						(effects
@@ -1277,7 +1663,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 12.7 -7.62 180)
+					(at 15.24 -3.81 180)
 					(length 2.54)
 					(name "FB"
 						(effects
@@ -1295,7 +1681,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 12.7 -10.16 180)
+					(at 15.24 -6.35 180)
 					(length 2.54)
 					(name "COMP"
 						(effects
@@ -1313,7 +1699,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -12.7 180)
+					(at 15.24 -8.89 180)
 					(length 2.54)
 					(name "SS2"
 						(effects
@@ -1330,11 +1716,29 @@
 						)
 					)
 				)
+				(pin unspecified line
+					(at 15.24 -13.97 180)
+					(length 2.54)
+					(name "MODE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
 			(symbol "U_ADP1074ACCZ-R7_1_1"
 				(polyline
 					(pts
-						(xy -0.635 17.78) (xy -0.635 -17.78)
+						(xy -0.635 16.51) (xy -0.635 -19.05)
 					)
 					(stroke
 						(width 0)
@@ -1346,7 +1750,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.635 17.78) (xy 0.635 -17.78)
+						(xy 0.635 16.51) (xy 0.635 -19.05)
 					)
 					(stroke
 						(width 0)
@@ -1356,8 +1760,26 @@
 						(type none)
 					)
 				)
+				(pin power_out line
+					(at -15.24 8.89 0)
+					(length 2.54)
+					(name "PGND1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin unspecified line
-					(at 12.7 -15.24 180)
+					(at 15.24 -11.43 180)
 					(length 2.54)
 					(name "~{PGOOD}"
 						(effects
@@ -1377,18 +1799,238 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GNDA"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GNDA"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDA_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDA_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
-		(at 193.04 106.68)
+		(at 180.34 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d26b952a-c7cd-47d1-8ccc-f3b4ad3add32")
+		(uuid "230423a9-b1d9-43b1-9437-a1f2b5ac5153")
+	)
+	(junction
+		(at 193.04 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48e5252e-511d-4e98-9f62-2877009cc550")
 	)
 	(junction
 		(at 190.5 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dddf56c2-2b75-4bc9-a389-0bfa877dff16")
+	)
+	(junction
+		(at 220.98 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0b8efee-dbf9-4111-a4c7-badcad659eba")
+	)
+	(junction
+		(at 185.42 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f41e49cf-bc73-4d9b-83b7-ee3e84670a02")
 	)
 	(wire
 		(pts
@@ -1412,7 +2054,17 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 106.68) (xy 193.04 106.68)
+			(xy 205.74 167.64) (xy 205.74 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d891474-cd2c-47a0-912c-b6f8365801ef")
+	)
+	(wire
+		(pts
+			(xy 152.4 93.98) (xy 193.04 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1442,6 +2094,46 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 140.97) (xy 182.88 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f4c8a2b-ece1-43b1-92e1-ee4d25156069")
+	)
+	(wire
+		(pts
+			(xy 218.44 139.7) (xy 220.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fa0b3cf-650f-4485-8c91-2b509638ee66")
+	)
+	(wire
+		(pts
+			(xy 180.34 109.22) (xy 182.88 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fd33faf-a962-48e8-a39c-3f0af677ca61")
+	)
+	(wire
+		(pts
+			(xy 177.8 109.22) (xy 180.34 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "706ae0e3-fa29-445b-939e-74bb72ce79a2")
+	)
+	(wire
+		(pts
 			(xy 195.58 93.98) (xy 193.04 93.98)
 		)
 		(stroke
@@ -1449,6 +2141,66 @@
 			(type default)
 		)
 		(uuid "746989aa-96a4-4c71-89ca-6310c121b101")
+	)
+	(wire
+		(pts
+			(xy 182.88 139.7) (xy 185.42 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad0df2a-b77b-4ab9-9de4-bb3ae1bc8762")
+	)
+	(wire
+		(pts
+			(xy 187.96 142.24) (xy 185.42 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8147f4de-31d2-47ba-99ce-373e3ce1a363")
+	)
+	(wire
+		(pts
+			(xy 193.04 109.22) (xy 195.58 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8458c8c1-fdcd-4bc9-9871-01d24120712f")
+	)
+	(wire
+		(pts
+			(xy 223.52 140.97) (xy 223.52 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "997fe021-f479-4d75-aa6c-a9942ed3093d")
+	)
+	(wire
+		(pts
+			(xy 220.98 139.7) (xy 220.98 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ada8cd1f-293f-4cb6-9d11-863c2221a579")
+	)
+	(wire
+		(pts
+			(xy 185.42 142.24) (xy 185.42 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c87377f9-6df6-4c00-ab4e-7b82c2247ac7")
 	)
 	(wire
 		(pts
@@ -1462,6 +2214,26 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 139.7) (xy 187.96 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce87b416-af34-4fcb-aff8-a18b03d6f158")
+	)
+	(wire
+		(pts
+			(xy 200.66 167.64) (xy 200.66 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e49cb39b-efe2-4f49-b4ec-f9a37cabe2fc")
+	)
+	(wire
+		(pts
 			(xy 152.4 83.82) (xy 190.5 83.82)
 		)
 		(stroke
@@ -1469,6 +2241,36 @@
 			(type default)
 		)
 		(uuid "eafa96fe-5a02-4932-8e98-36549622802b")
+	)
+	(wire
+		(pts
+			(xy 180.34 119.38) (xy 195.58 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb4815bb-9d31-4526-8a85-22eaccde22db")
+	)
+	(wire
+		(pts
+			(xy 218.44 142.24) (xy 220.98 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1df4c52-269a-4bc8-8934-3729f5d19de5")
+	)
+	(wire
+		(pts
+			(xy 220.98 139.7) (xy 223.52 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fead2eda-1880-4fc6-9a01-1e9620c74f35")
 	)
 	(label "VIN"
 		(at 152.4 83.82 0)
@@ -1481,8 +2283,227 @@
 		(uuid "1f806ad2-4202-4cc7-9988-725ebded724b")
 	)
 	(symbol
+		(lib_id "DIODES_1N4148WX-TP_DATA_BASE:D_1N4148WX-TP")
+		(at 187.96 109.22 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a15b4bf-41fe-4c45-a4cf-20012e2d6b03")
+		(property "Reference" "D1"
+			(at 187.6425 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 V"
+			(at 187.6425 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "diode_footprints:SOD323"
+			(at 187.96 116.84 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD-323).pdf"
+			(at 187.96 119.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener SMD 100 V"
+			(at 187.96 121.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Diode Type" "Zener"
+			(at 187.96 124.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N4148WX-TP"
+			(at 187.96 127 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Micro Commercial Components"
+			(at 187.96 129.54 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.0"
+			(at 187.96 132.08 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "1N4148WX-TP"
+			(at 187.96 134.62 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_1N4148WX-TP"
+			(at 187.96 137.16 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/1N4148WX-TP"
+			(at 187.96 139.7 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1e2edf8-4825-44b4-ae91-7886e377afac")
+		)
+		(pin "2"
+			(uuid "68b950a8-577a-4d60-bdd7-dd44e178291b")
+		)
+		(instances
+			(project ""
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 223.52 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "305fb8c9-a63d-45d2-b12c-8e6f9616944a")
+		(property "Reference" "#PWR15"
+			(at 223.52 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 226.06 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 223.52 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67482bfe-7795-452c-8529-0b6600f91c0c")
+		)
+		(instances
+			(project "minimal_adp1074"
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "#PWR15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_IC_ADI:U_ADP1074ACCZ-R7")
-		(at 203.2 152.4 0)
+		(at 203.2 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1491,7 +2512,7 @@
 		(fields_autoplaced yes)
 		(uuid "33470dac-b23b-41c1-a9aa-b73cc583282a")
 		(property "Reference" "U1"
-			(at 203.2 129.54 0)
+			(at 203.2 127 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1499,7 +2520,7 @@
 			)
 		)
 		(property "Value" "ADP1074ACCZ-R7"
-			(at 203.2 132.08 0)
+			(at 203.2 129.54 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -1507,7 +2528,7 @@
 			)
 		)
 		(property "Footprint" "analog_devices_footprints:CC-24-6_ADI"
-			(at 213.36 177.8 0)
+			(at 213.36 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1518,7 +2539,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/adp1074.pdf"
-			(at 213.36 172.72 0)
+			(at 213.36 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1529,7 +2550,7 @@
 			)
 		)
 		(property "Description" "Isolated, Synchronous Forward Controller with Active Clamp and iCoupler"
-			(at 213.36 175.26 0)
+			(at 213.36 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1539,7 +2560,7 @@
 			)
 		)
 		(property "MPN" "ADP1074ACCZ-R7"
-			(at 213.36 180.34 0)
+			(at 213.36 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1630,6 +2651,359 @@
 			(project ""
 				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DIODES_1N4148WX-TP_DATA_BASE:D_1N4148WX-TP")
+		(at 180.34 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "39306a97-b248-4701-ace1-21f0cf17ec60")
+		(property "Reference" "D2"
+			(at 176.53 112.7124 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100 V"
+			(at 176.53 115.2524 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "diode_footprints:SOD323"
+			(at 187.96 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD-323).pdf"
+			(at 190.5 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener SMD 100 V"
+			(at 193.04 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Diode Type" "Zener"
+			(at 195.58 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N4148WX-TP"
+			(at 198.12 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Micro Commercial Components"
+			(at 200.66 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.0"
+			(at 203.2 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "1N4148WX-TP"
+			(at 205.74 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_1N4148WX-TP"
+			(at 208.28 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/1N4148WX-TP"
+			(at 210.82 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ed46b28-9d46-4271-b51b-212fb98259e1")
+		)
+		(pin "2"
+			(uuid "c0447555-f59c-4c88-9c9b-c8ef301ff5b2")
+		)
+		(instances
+			(project "minimal_adp1074"
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 182.88 140.97 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46253941-6e50-423c-bc3c-451c0f6bc772")
+		(property "Reference" "#PWR9"
+			(at 182.88 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.34 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 182.88 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbec6c0d-b4bd-4f08-9c93-6386795ce099")
+		)
+		(instances
+			(project "minimal_adp1074"
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "#PWR9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 200.66 168.91 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "91e67cbf-0c4b-4391-ab2e-8a4897337925")
+		(property "Reference" "#PWR02"
+			(at 200.66 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.12 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 200.66 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3fcbf19f-a29a-48f1-9775-80721f2274e0")
+		)
+		(instances
+			(project "minimal_adp1074"
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 205.74 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c354e90-e62d-4cb6-a3b8-54e2c2a7db8b")
+		(property "Reference" "#PWR01"
+			(at 205.74 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 208.28 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 205.74 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 205.74 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0798a1f2-351f-48df-8e97-638181524d52")
+		)
+		(instances
+			(project "minimal_adp1074"
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -1830,6 +3204,168 @@
 			(project ""
 				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
 					(reference "T1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "INDUCTORS_CB2518T_DATA_BASE:L_CB2518T102K")
+		(at 170.18 109.22 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee25e2e7-0abc-4400-9bee-cc6104e7077e")
+		(property "Reference" "L1"
+			(at 170.18 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1000.0 µH"
+			(at 170.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "inductor_footprints:CB2518T"
+			(at 170.18 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ds.yuden.co.jp/TYCOMPAS/eu/detail?pn=CB2518T102K&u=M"
+			(at 170.18 116.84 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "INDUCTOR SMD 1000.0 µH ±10%"
+			(at 170.18 119.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CB2518T102K"
+			(at 170.18 121.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 170.18 124.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.1"
+			(at 170.18 127 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Resistance (Ω)" "0.031"
+			(at 170.18 129.54 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "CB2518T"
+			(at 170.18 132.08 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "L_CB2518T102K"
+			(at 170.18 134.62 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "±10%"
+			(at 170.18 137.16 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CB2518T102K"
+			(at 170.18 139.7 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c854cf43-5929-4b3b-a046-7aa45a03ffe4")
+		)
+		(pin "2"
+			(uuid "527e73b8-679d-4c1e-a4d6-5f730ef15334")
+		)
+		(instances
+			(project ""
+				(path "/96a0da81-1285-47de-a7eb-fcaba655ea72"
+					(reference "L1")
 					(unit 1)
 				)
 			)

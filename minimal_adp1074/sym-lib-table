@@ -295,4 +295,6 @@
   (lib (name "TRANSISTORS_SI7309DN-T1-GE3_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_SI7309DN-T1-GE3_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "TRANSISTORS_SI7997DP-T1-GE3_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_SI7997DP-T1-GE3_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "TRANSISTORS_ZXMP6A17E6TA_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_ZXMP6A17E6TA_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "DIODES_1N4148WX-TP_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/DIODES_1N4148WX-TP_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "INDUCTORS_CB2518T_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/INDUCTORS_CB2518T_DATA_BASE.kicad_sym")(options "")(descr ""))
 )
