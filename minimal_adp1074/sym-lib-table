@@ -299,4 +299,6 @@
   (lib (name "INDUCTORS_CB2518T_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/INDUCTORS_CB2518T_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "DIODES_BZT52C_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/DIODES_BZT52C_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "TRANSISTORS_SIR680DP-T1-RE3_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_SIR680DP-T1-RE3_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "CAPACITORS_C1005X5R1V_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/CAPACITORS_C1005X5R1V_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "INDUCTORS_IHLP4040DZE__DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/INDUCTORS_IHLP4040DZE__DATA_BASE.kicad_sym")(options "")(descr ""))
 )
