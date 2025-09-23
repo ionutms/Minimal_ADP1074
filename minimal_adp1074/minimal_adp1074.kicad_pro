@@ -493,7 +493,8 @@
     },
     "net_colors": {
       "GND": "rgb(72, 72, 72)",
-      "GNDA": "rgb(132, 132, 132)"
+      "GNDA": "rgb(132, 132, 132)",
+      "Net-(Q1-D)": "rgb(0, 132, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
