@@ -9368,16 +9368,16 @@
 		)
 	)
 	(junction
-		(at 276.86 81.28)
+		(at 274.32 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b68e7a2-4d6d-4019-8871-8a5f80a194f3")
+	)
+	(junction
+		(at 281.94 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11cd411b-e21a-4492-af2b-69651ed7ceab")
-	)
-	(junction
-		(at 243.84 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "174af641-b57d-46e2-b646-ff39a2e67b09")
 	)
 	(junction
 		(at 71.12 177.8)
@@ -9386,25 +9386,19 @@
 		(uuid "1857d2ef-fb7d-4e74-b0db-ed2075ea45b1")
 	)
 	(junction
-		(at 231.14 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "228ea073-d721-406c-8a4d-b82ad3b63080")
-	)
-	(junction
 		(at 213.36 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22cf64c3-e6c7-44c5-8635-2d5c313ef33c")
 	)
 	(junction
-		(at 276.86 121.92)
+		(at 281.94 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24248bb6-aa30-4c3a-9d9a-7c4d1eac170f")
 	)
 	(junction
-		(at 322.58 81.28)
+		(at 327.66 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26f86904-f1f7-464e-b16f-1c7004281271")
@@ -9414,12 +9408,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28165be4-aec6-4d72-a133-0283f7b11cdb")
-	)
-	(junction
-		(at 256.54 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b8492db-fa99-4585-a97e-96e468da865c")
 	)
 	(junction
 		(at 195.58 134.62)
@@ -9434,28 +9422,40 @@
 		(uuid "30d0699b-d047-4c71-b3e9-887d1b1ab2dd")
 	)
 	(junction
+		(at 281.94 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "323b7c0a-5134-4100-a3b1-4583b9d9f631")
+	)
+	(junction
 		(at 218.44 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32a72999-bd94-41cb-a776-8a2b8906fb8d")
 	)
 	(junction
-		(at 353.06 81.28)
+		(at 274.32 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3551646c-4436-4851-a2aa-d96b5baacaba")
+	)
+	(junction
+		(at 358.14 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38e95aa5-51ac-4e63-ad7b-b4e136804fa6")
 	)
 	(junction
-		(at 368.3 81.28)
+		(at 215.9 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "439e9f42-9414-4865-b65c-a763b584af97")
+	)
+	(junction
+		(at 373.38 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "478cd62e-ee56-41b3-8ebc-a203d5483098")
-	)
-	(junction
-		(at 261.62 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f167bb8-e515-4486-ac9c-116ae02c6863")
 	)
 	(junction
 		(at 193.04 101.6)
@@ -9470,31 +9470,13 @@
 		(uuid "51b6aee1-c925-4b34-89da-6d6635281df7")
 	)
 	(junction
-		(at 269.24 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a524c7c-9479-4857-a74d-63a39776825e")
-	)
-	(junction
-		(at 261.62 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b0d543f-6fb2-4635-bacb-51cfc4dcbfff")
-	)
-	(junction
 		(at 167.64 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "602527fe-122b-4980-a622-1e9cf319050d")
 	)
 	(junction
-		(at 256.54 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "653c95fa-4cb8-4f4e-88c8-1bc462c0479c")
-	)
-	(junction
-		(at 231.14 121.92)
+		(at 215.9 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6bdb9458-c6a3-4754-b4d1-ab99458a884d")
@@ -9512,10 +9494,28 @@
 		(uuid "768edab2-7290-4cc4-b027-7e4c8c466184")
 	)
 	(junction
+		(at 264.16 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7bbd4c7b-bc2c-47b7-9333-021145c19345")
+	)
+	(junction
 		(at 104.14 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ef7201a-de3a-4813-a843-0d25707dabb6")
+	)
+	(junction
+		(at 228.6 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f09afa5-4f04-4324-9385-4a03a41299ef")
+	)
+	(junction
+		(at 264.16 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8194f4df-ff0d-4fe2-9f1d-714e98243382")
 	)
 	(junction
 		(at 149.86 109.22)
@@ -9524,7 +9524,7 @@
 		(uuid "83d6c792-52c0-4406-a510-49f316fac01e")
 	)
 	(junction
-		(at 307.34 81.28)
+		(at 312.42 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "853e3341-6574-4715-8665-9736d5725222")
@@ -9542,7 +9542,7 @@
 		(uuid "981098fc-1500-4463-afa2-115af77baf64")
 	)
 	(junction
-		(at 243.84 132.08)
+		(at 228.6 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9dfe8443-c3ca-4546-8a1a-01a10696c565")
@@ -9572,7 +9572,7 @@
 		(uuid "b41e6865-2aa5-40eb-8aff-81ba0a9aaec8")
 	)
 	(junction
-		(at 248.92 121.92)
+		(at 233.68 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc6a2056-ad65-4b81-beab-297a242a78a1")
@@ -9590,22 +9590,28 @@
 		(uuid "c86767d7-947f-4b8f-bb6c-9681b5f2b79b")
 	)
 	(junction
-		(at 284.48 96.52)
+		(at 289.56 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cec42dab-b892-4c30-8e24-fa2db1e54921")
 	)
 	(junction
-		(at 276.86 99.06)
+		(at 281.94 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cfecb062-5e81-4504-a36b-19d618bd9c3d")
 	)
 	(junction
-		(at 248.92 124.46)
+		(at 233.68 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d829ed5a-1858-4205-b303-15f1932970f7")
+	)
+	(junction
+		(at 238.76 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8839d3b-045d-4d31-b5b8-ed57da1598e2")
 	)
 	(junction
 		(at 96.52 124.46)
@@ -9620,16 +9626,10 @@
 		(uuid "dddf56c2-2b75-4bc9-a389-0bfa877dff16")
 	)
 	(junction
-		(at 279.4 99.06)
+		(at 284.48 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0238d77-32c1-4adf-9513-82240bdba8e3")
-	)
-	(junction
-		(at 276.86 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e62dfbed-8216-4c59-9de6-76ff93441916")
 	)
 	(junction
 		(at 243.84 238.76)
@@ -9644,19 +9644,19 @@
 		(uuid "ec9b3934-9079-4535-9f51-10cd2a4cb5cf")
 	)
 	(junction
-		(at 383.54 81.28)
+		(at 388.62 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed713280-5e21-4f75-ba23-bc84ceacc6b1")
 	)
 	(junction
-		(at 269.24 106.68)
+		(at 238.76 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f03cb940-774f-4068-aba9-8ade6b0846f5")
+		(uuid "f04b277b-aa30-4183-b4e7-73fd6a98c01e")
 	)
 	(junction
-		(at 337.82 81.28)
+		(at 342.9 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f04eedd7-71cd-4596-9261-9b1c4a46fb89")
@@ -9743,7 +9743,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 182.88) (xy 297.18 182.88)
+			(xy 215.9 182.88) (xy 302.26 182.88)
 		)
 		(stroke
 			(width 0)
@@ -9813,7 +9813,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 121.92) (xy 256.54 121.92)
+			(xy 233.68 121.92) (xy 238.76 121.92)
 		)
 		(stroke
 			(width 0)
@@ -9823,7 +9823,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 104.14) (xy 243.84 106.68)
+			(xy 228.6 97.79) (xy 228.6 104.14)
 		)
 		(stroke
 			(width 0)
@@ -9833,7 +9833,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 92.71) (xy 368.3 96.52)
+			(xy 373.38 92.71) (xy 373.38 96.52)
 		)
 		(stroke
 			(width 0)
@@ -9843,7 +9843,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 81.28) (xy 383.54 85.09)
+			(xy 388.62 81.28) (xy 388.62 85.09)
 		)
 		(stroke
 			(width 0)
@@ -9863,17 +9863,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 106.68) (xy 256.54 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b54f4d-0457-48c0-9322-c7a59b3ef971")
-	)
-	(wire
-		(pts
-			(xy 231.14 106.68) (xy 233.68 106.68)
+			(xy 215.9 104.14) (xy 217.17 104.14)
 		)
 		(stroke
 			(width 0)
@@ -9893,7 +9883,17 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 114.3) (xy 256.54 114.3)
+			(xy 215.9 114.3) (xy 215.9 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13d0642f-22fc-4af6-967a-3e48b126fee0")
+	)
+	(wire
+		(pts
+			(xy 234.95 114.3) (xy 238.76 114.3)
 		)
 		(stroke
 			(width 0)
@@ -9923,7 +9923,7 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 81.28) (xy 383.54 81.28)
+			(xy 373.38 81.28) (xy 388.62 81.28)
 		)
 		(stroke
 			(width 0)
@@ -9943,7 +9943,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 81.28) (xy 307.34 81.28)
+			(xy 302.26 81.28) (xy 312.42 81.28)
 		)
 		(stroke
 			(width 0)
@@ -9963,7 +9963,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 109.22) (xy 284.48 110.49)
+			(xy 289.56 109.22) (xy 289.56 110.49)
 		)
 		(stroke
 			(width 0)
@@ -9973,7 +9973,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 81.28) (xy 337.82 81.28)
+			(xy 327.66 81.28) (xy 342.9 81.28)
 		)
 		(stroke
 			(width 0)
@@ -9983,7 +9983,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 121.92) (xy 248.92 124.46)
+			(xy 233.68 121.92) (xy 233.68 124.46)
 		)
 		(stroke
 			(width 0)
@@ -9993,23 +9993,13 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 124.46) (xy 248.92 127)
+			(xy 233.68 124.46) (xy 233.68 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1cabaa63-c720-4d71-89e9-a3e23087d931")
-	)
-	(wire
-		(pts
-			(xy 269.24 81.28) (xy 276.86 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ea33946-c309-4974-ae35-56e903116455")
 	)
 	(wire
 		(pts
@@ -10063,7 +10053,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 96.52) (xy 284.48 96.52)
+			(xy 302.26 96.52) (xy 289.56 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10083,7 +10073,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 92.71) (xy 322.58 96.52)
+			(xy 327.66 92.71) (xy 327.66 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10093,7 +10083,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 142.24) (xy 243.84 143.51)
+			(xy 228.6 142.24) (xy 228.6 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10103,7 +10093,17 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 121.92) (xy 276.86 123.19)
+			(xy 281.94 104.14) (xy 281.94 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "272b1320-149a-471c-bed1-7a0be1ad1953")
+	)
+	(wire
+		(pts
+			(xy 281.94 121.92) (xy 281.94 123.19)
 		)
 		(stroke
 			(width 0)
@@ -10123,7 +10123,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 129.54) (xy 243.84 132.08)
+			(xy 228.6 129.54) (xy 228.6 132.08)
 		)
 		(stroke
 			(width 0)
@@ -10143,7 +10143,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 96.52) (xy 284.48 99.06)
+			(xy 289.56 96.52) (xy 289.56 99.06)
 		)
 		(stroke
 			(width 0)
@@ -10183,13 +10183,23 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 99.06) (xy 279.4 99.06)
+			(xy 281.94 99.06) (xy 284.48 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2fc1411a-abd3-4b79-b135-05877ac2abac")
+	)
+	(wire
+		(pts
+			(xy 274.32 104.14) (xy 281.94 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30fe014e-b712-4db3-9441-ae2b169b303c")
 	)
 	(wire
 		(pts
@@ -10203,7 +10213,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 92.71) (xy 307.34 96.52)
+			(xy 312.42 92.71) (xy 312.42 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10243,7 +10253,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 81.28) (xy 307.34 85.09)
+			(xy 312.42 81.28) (xy 312.42 85.09)
 		)
 		(stroke
 			(width 0)
@@ -10303,16 +10313,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 121.92) (xy 231.14 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3da5638a-674c-4bee-b397-1c60c547e48a")
-	)
-	(wire
-		(pts
 			(xy 243.84 238.76) (xy 243.84 245.11)
 		)
 		(stroke
@@ -10330,6 +10330,16 @@
 			(type default)
 		)
 		(uuid "3eb2f117-c45b-4343-85eb-fd3611f19c17")
+	)
+	(wire
+		(pts
+			(xy 255.27 93.98) (xy 264.16 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f22d935-0417-4f01-ac2e-aa8785d5b949")
 	)
 	(wire
 		(pts
@@ -10353,7 +10363,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 81.28) (xy 281.94 81.28)
+			(xy 281.94 81.28) (xy 287.02 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10363,7 +10373,17 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 81.28) (xy 353.06 85.09)
+			(xy 238.76 114.3) (xy 238.76 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42cbc257-a6e9-415b-a771-5beca2790421")
+	)
+	(wire
+		(pts
+			(xy 358.14 81.28) (xy 358.14 85.09)
 		)
 		(stroke
 			(width 0)
@@ -10393,7 +10413,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 106.68) (xy 254 106.68)
+			(xy 238.76 104.14) (xy 237.49 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10423,7 +10443,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 132.08) (xy 259.08 132.08)
+			(xy 228.6 132.08) (xy 241.3 132.08)
 		)
 		(stroke
 			(width 0)
@@ -10453,7 +10473,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 121.92) (xy 233.68 121.92)
+			(xy 215.9 121.92) (xy 218.44 121.92)
 		)
 		(stroke
 			(width 0)
@@ -10463,7 +10483,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 180.34) (xy 259.08 180.34)
+			(xy 215.9 180.34) (xy 248.92 180.34)
 		)
 		(stroke
 			(width 0)
@@ -10523,6 +10543,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 144.78) (xy 241.3 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51d8d8bb-1d82-4b2b-9834-e2bd6eb56b26")
+	)
+	(wire
+		(pts
 			(xy 193.04 129.54) (xy 193.04 119.38)
 		)
 		(stroke
@@ -10540,6 +10570,16 @@
 			(type default)
 		)
 		(uuid "52f9512a-8a72-404c-9326-fb72df75f173")
+	)
+	(wire
+		(pts
+			(xy 227.33 104.14) (xy 228.6 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5529739f-d6cb-4b04-8b97-4d79299c5b58")
 	)
 	(wire
 		(pts
@@ -10573,7 +10613,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 92.71) (xy 337.82 96.52)
+			(xy 342.9 92.71) (xy 342.9 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10583,13 +10623,13 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 106.68) (xy 276.86 99.06)
+			(xy 241.3 144.78) (xy 248.92 144.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5cf62562-be8d-4539-af51-e996020aaf58")
+		(uuid "611299bc-3e20-41c6-ae09-dc2048d500ce")
 	)
 	(wire
 		(pts
@@ -10633,7 +10673,7 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 93.98) (xy 284.48 96.52)
+			(xy 289.56 93.98) (xy 289.56 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10663,7 +10703,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 81.28) (xy 337.82 85.09)
+			(xy 342.9 81.28) (xy 342.9 85.09)
 		)
 		(stroke
 			(width 0)
@@ -10733,6 +10773,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 104.14) (xy 229.87 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7361a76b-2059-40eb-8f95-214d78c40df1")
+	)
+	(wire
+		(pts
 			(xy 195.58 93.98) (xy 193.04 93.98)
 		)
 		(stroke
@@ -10743,7 +10793,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 93.98) (xy 261.62 96.52)
+			(xy 264.16 93.98) (xy 264.16 95.25)
 		)
 		(stroke
 			(width 0)
@@ -10773,17 +10823,27 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 114.3) (xy 231.14 106.68)
+			(xy 215.9 104.14) (xy 215.9 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "78f6cc0b-d7d4-4e7a-ad07-f247c93f6afc")
+		(uuid "7884ddde-42bd-4322-94c7-621c2c6e6e16")
 	)
 	(wire
 		(pts
-			(xy 261.62 83.82) (xy 261.62 81.28)
+			(xy 238.76 104.14) (xy 238.76 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78f98832-ca28-49c1-bef1-080db0650975")
+	)
+	(wire
+		(pts
+			(xy 264.16 82.55) (xy 264.16 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10803,7 +10863,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 81.28) (xy 368.3 81.28)
+			(xy 358.14 81.28) (xy 373.38 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10823,7 +10883,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 81.28) (xy 398.78 81.28)
+			(xy 388.62 81.28) (xy 393.7 81.28)
 		)
 		(stroke
 			(width 0)
@@ -10883,7 +10943,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 92.71) (xy 383.54 96.52)
+			(xy 388.62 92.71) (xy 388.62 96.52)
 		)
 		(stroke
 			(width 0)
@@ -10893,7 +10953,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 142.24) (xy 259.08 180.34)
+			(xy 248.92 144.78) (xy 248.92 180.34)
 		)
 		(stroke
 			(width 0)
@@ -10913,7 +10973,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 99.06) (xy 269.24 106.68)
+			(xy 274.32 100.33) (xy 274.32 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10963,43 +11023,13 @@
 	)
 	(wire
 		(pts
-			(xy 368.3 81.28) (xy 368.3 85.09)
+			(xy 373.38 81.28) (xy 373.38 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8f1bda4b-5c4d-4b0f-9d36-746f474543c2")
-	)
-	(wire
-		(pts
-			(xy 259.08 93.98) (xy 261.62 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f9907f6-c075-47dc-a009-c16d1a123a84")
-	)
-	(wire
-		(pts
-			(xy 269.24 106.68) (xy 276.86 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9166ed71-4d7f-46d7-8235-4514c451fec2")
-	)
-	(wire
-		(pts
-			(xy 256.54 114.3) (xy 256.54 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9292b1c3-a29b-4cfe-b2aa-58f5242dbc16")
 	)
 	(wire
 		(pts
@@ -11030,6 +11060,16 @@
 			(type default)
 		)
 		(uuid "99b6a2ba-2892-4e26-b07e-f24ebc55849c")
+	)
+	(wire
+		(pts
+			(xy 238.76 121.92) (xy 281.94 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ed0b763-1ee3-49fa-b53a-40ddfef5bf65")
 	)
 	(wire
 		(pts
@@ -11073,23 +11113,13 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 93.98) (xy 248.92 93.98)
+			(xy 243.84 93.98) (xy 245.11 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a4facf60-c47b-45e1-a14b-a3abc4621eb0")
-	)
-	(wire
-		(pts
-			(xy 276.86 121.92) (xy 276.86 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5893efa-a94c-4e2c-a55a-be40a5cb30a7")
 	)
 	(wire
 		(pts
@@ -11120,6 +11150,16 @@
 			(type default)
 		)
 		(uuid "b28acf11-cd2e-4e4a-b1f2-eb8d83e92610")
+	)
+	(wire
+		(pts
+			(xy 264.16 92.71) (xy 264.16 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b330496c-4115-4b13-95ea-371db94356a7")
 	)
 	(wire
 		(pts
@@ -11163,13 +11203,13 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 106.68) (xy 243.84 106.68)
+			(xy 228.6 86.36) (xy 228.6 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b89cfff6-3755-4fa6-85bd-925b860f5b79")
+		(uuid "b8e2174b-8953-4261-99d1-5d791cc8e576")
 	)
 	(wire
 		(pts
@@ -11193,7 +11233,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 104.14) (xy 261.62 106.68)
+			(xy 264.16 102.87) (xy 264.16 104.14)
 		)
 		(stroke
 			(width 0)
@@ -11203,7 +11243,7 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 92.71) (xy 353.06 96.52)
+			(xy 358.14 92.71) (xy 358.14 96.52)
 		)
 		(stroke
 			(width 0)
@@ -11233,7 +11273,17 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 81.28) (xy 322.58 85.09)
+			(xy 274.32 81.28) (xy 281.94 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0f85a95-ed3a-4ce8-82af-5433ef94f196")
+	)
+	(wire
+		(pts
+			(xy 327.66 81.28) (xy 327.66 85.09)
 		)
 		(stroke
 			(width 0)
@@ -11263,7 +11313,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 81.28) (xy 261.62 81.28)
+			(xy 210.82 81.28) (xy 264.16 81.28)
 		)
 		(stroke
 			(width 0)
@@ -11303,7 +11353,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 114.3) (xy 238.76 114.3)
+			(xy 215.9 114.3) (xy 224.79 114.3)
 		)
 		(stroke
 			(width 0)
@@ -11333,7 +11383,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 83.82) (xy 276.86 81.28)
+			(xy 281.94 83.82) (xy 281.94 81.28)
 		)
 		(stroke
 			(width 0)
@@ -11363,23 +11413,13 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 106.68) (xy 269.24 106.68)
+			(xy 264.16 104.14) (xy 274.32 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d8a719e2-17eb-47c6-b40e-b6efc25a0226")
-	)
-	(wire
-		(pts
-			(xy 261.62 81.28) (xy 269.24 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9202116-85eb-477b-aa7a-8d7c665be0a1")
 	)
 	(wire
 		(pts
@@ -11403,7 +11443,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 121.92) (xy 231.14 121.92)
+			(xy 210.82 121.92) (xy 215.9 121.92)
 		)
 		(stroke
 			(width 0)
@@ -11413,7 +11453,7 @@
 	)
 	(wire
 		(pts
-			(xy 307.34 81.28) (xy 322.58 81.28)
+			(xy 312.42 81.28) (xy 327.66 81.28)
 		)
 		(stroke
 			(width 0)
@@ -11433,7 +11473,17 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 81.28) (xy 269.24 88.9)
+			(xy 281.94 104.14) (xy 281.94 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc361704-24ec-43b8-800f-5256bc207b13")
+	)
+	(wire
+		(pts
+			(xy 274.32 81.28) (xy 274.32 90.17)
 		)
 		(stroke
 			(width 0)
@@ -11503,16 +11553,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 121.92) (xy 276.86 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e55c48ab-d2a8-45a7-85b2-56dd1c7e36b3")
-	)
-	(wire
-		(pts
 			(xy 198.12 257.81) (xy 200.66 257.81)
 		)
 		(stroke
@@ -11533,7 +11573,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 81.28) (xy 353.06 81.28)
+			(xy 342.9 81.28) (xy 358.14 81.28)
 		)
 		(stroke
 			(width 0)
@@ -11553,7 +11593,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 109.22) (xy 297.18 182.88)
+			(xy 302.26 109.22) (xy 302.26 182.88)
 		)
 		(stroke
 			(width 0)
@@ -11570,6 +11610,16 @@
 			(type default)
 		)
 		(uuid "ed32876f-b544-4062-95f7-d930b8f18f47")
+	)
+	(wire
+		(pts
+			(xy 264.16 81.28) (xy 274.32 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edf85a20-e439-4087-8d21-38758581955a")
 	)
 	(wire
 		(pts
@@ -11603,7 +11653,7 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 99.06) (xy 281.94 99.06)
+			(xy 284.48 99.06) (xy 287.02 99.06)
 		)
 		(stroke
 			(width 0)
@@ -11673,7 +11723,7 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 96.52) (xy 297.18 99.06)
+			(xy 302.26 96.52) (xy 302.26 99.06)
 		)
 		(stroke
 			(width 0)
@@ -11782,12 +11832,12 @@
 		(uuid "4d6f5703-50d2-4179-955a-3eeb523dbf27")
 	)
 	(label "VOUT"
-		(at 243.84 93.98 0)
+		(at 243.84 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "5f7c9233-9f85-4216-aded-ec3d90d8150e")
 	)
@@ -11812,7 +11862,7 @@
 		(uuid "662618f0-ef12-4ec4-9c71-b5ce8d91e3e0")
 	)
 	(label "VOUT"
-		(at 398.78 81.28 0)
+		(at 393.7 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11841,8 +11891,18 @@
 		)
 		(uuid "7a899593-668a-46b0-bc30-4ef0b48b68a2")
 	)
+	(label "VOUT"
+		(at 228.6 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "80ee059f-f223-4a38-9b0d-ac4296a4bf1d")
+	)
 	(label "SR2_G"
-		(at 294.64 96.52 180)
+		(at 299.72 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11982,7 +12042,7 @@
 		(uuid "f64a72ea-a17e-4711-97fe-c5102105904e")
 	)
 	(label "SR1_G"
-		(at 254 132.08 180)
+		(at 238.76 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12200,7 +12260,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 353.06 88.9 270)
+		(at 358.14 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12209,7 +12269,7 @@
 		(fields_autoplaced yes)
 		(uuid "0158ec4d-fc9e-4c94-9ca7-2529869d33c7")
 		(property "Reference" "C15"
-			(at 356.87 87.6299 90)
+			(at 361.95 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12218,7 +12278,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 356.87 90.1699 90)
+			(at 361.95 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12227,7 +12287,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 345.44 88.9 0)
+			(at 350.52 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12238,7 +12298,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 342.9 88.9 0)
+			(at 347.98 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12249,7 +12309,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 340.36 88.9 0)
+			(at 345.44 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12260,7 +12320,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 337.82 88.9 0)
+			(at 342.9 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12271,7 +12331,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 335.28 88.9 0)
+			(at 340.36 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12282,7 +12342,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 332.74 88.9 0)
+			(at 337.82 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12293,7 +12353,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 330.2 88.9 0)
+			(at 335.28 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12304,7 +12364,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 327.66 88.9 0)
+			(at 332.74 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12315,7 +12375,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 325.12 88.9 0)
+			(at 330.2 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12326,7 +12386,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 322.58 88.9 0)
+			(at 327.66 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12337,7 +12397,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 320.04 88.9 0)
+			(at 325.12 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12348,7 +12408,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 317.5 88.9 0)
+			(at 322.58 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12359,7 +12419,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 314.96 88.9 0)
+			(at 320.04 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12370,7 +12430,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 312.42 88.9 0)
+			(at 317.5 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12791,7 +12851,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1002X")
-		(at 243.84 137.16 90)
+		(at 228.6 137.16 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12801,7 +12861,7 @@
 		(fields_autoplaced yes)
 		(uuid "07ddf885-5df4-45d3-b4c7-4b8dbb7f8878")
 		(property "Reference" "R10"
-			(at 246.38 135.8899 90)
+			(at 231.14 135.8899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12810,7 +12870,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 246.38 138.4299 90)
+			(at 231.14 138.4299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12819,7 +12879,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 248.92 137.16 0)
+			(at 233.68 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12830,7 +12890,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 251.46 137.16 0)
+			(at 236.22 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12841,7 +12901,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0402 50V"
-			(at 254 137.16 0)
+			(at 238.76 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12852,7 +12912,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 256.54 137.16 0)
+			(at 241.3 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12863,7 +12923,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 259.08 137.16 0)
+			(at 243.84 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12874,7 +12934,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 137.16 0)
+			(at 246.38 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12885,7 +12945,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF1002X"
-			(at 264.16 137.16 0)
+			(at 248.92 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12896,7 +12956,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 266.7 137.16 0)
+			(at 251.46 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12907,7 +12967,7 @@
 			)
 		)
 		(property "Series" "ERJ-2RKF"
-			(at 269.24 137.16 0)
+			(at 254 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12918,7 +12978,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-2RKF1002X"
-			(at 271.78 137.16 0)
+			(at 256.54 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12929,7 +12989,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 274.32 137.16 0)
+			(at 259.08 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12940,7 +13000,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 276.86 137.16 0)
+			(at 261.62 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12951,7 +13011,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF1002X"
-			(at 279.4 137.16 0)
+			(at 264.16 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12962,7 +13022,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 281.94 137.16 0)
+			(at 266.7 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13740,7 +13800,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 284.48 110.49 0)
+		(at 289.56 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13749,7 +13809,7 @@
 		(fields_autoplaced yes)
 		(uuid "16098e9b-5f67-4eb1-a4ed-70118acd17e1")
 		(property "Reference" "#PWR022"
-			(at 284.48 116.84 0)
+			(at 289.56 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13758,7 +13818,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 287.02 111.7599 0)
+			(at 292.1 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13767,7 +13827,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.48 110.49 0)
+			(at 289.56 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13776,7 +13836,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.48 110.49 0)
+			(at 289.56 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13785,7 +13845,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 284.48 110.49 0)
+			(at 289.56 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13807,7 +13867,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 307.34 88.9 270)
+		(at 312.42 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13816,7 +13876,7 @@
 		(fields_autoplaced yes)
 		(uuid "169877f0-a40c-4216-873f-ef8b89d814c6")
 		(property "Reference" "C12"
-			(at 311.15 87.6299 90)
+			(at 316.23 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13825,7 +13885,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 311.15 90.1699 90)
+			(at 316.23 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13834,7 +13894,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 299.72 88.9 0)
+			(at 304.8 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13845,7 +13905,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 297.18 88.9 0)
+			(at 302.26 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13856,7 +13916,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 294.64 88.9 0)
+			(at 299.72 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13867,7 +13927,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 292.1 88.9 0)
+			(at 297.18 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13878,7 +13938,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 289.56 88.9 0)
+			(at 294.64 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13889,7 +13949,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 287.02 88.9 0)
+			(at 292.1 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13900,7 +13960,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 284.48 88.9 0)
+			(at 289.56 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13911,7 +13971,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 281.94 88.9 0)
+			(at 287.02 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13922,7 +13982,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 279.4 88.9 0)
+			(at 284.48 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13933,7 +13993,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 276.86 88.9 0)
+			(at 281.94 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13944,7 +14004,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 274.32 88.9 0)
+			(at 279.4 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13955,7 +14015,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 271.78 88.9 0)
+			(at 276.86 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13966,7 +14026,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 269.24 88.9 0)
+			(at 274.32 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13977,7 +14037,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 266.7 88.9 0)
+			(at 271.78 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14269,7 +14329,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2GE0_DATA_BASE:R_ERJ-2GE0R00X")
-		(at 297.18 104.14 90)
+		(at 302.26 104.14 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14278,7 +14338,7 @@
 		(dnp no)
 		(uuid "1bad82c7-32c0-4354-bbdd-ef5ee6701911")
 		(property "Reference" "R12"
-			(at 299.72 105.4101 90)
+			(at 304.8 105.4101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14287,7 +14347,7 @@
 			)
 		)
 		(property "Value" "0 Ω"
-			(at 299.72 102.8701 90)
+			(at 304.8 102.8701 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14296,28 +14356,6 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 302.26 104.14 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 304.8 104.14 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES SMD 0 Ω 5% 0402 50V"
 			(at 307.34 104.14 0)
 			(show_name yes)
 			(effects
@@ -14328,7 +14366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "0402"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
 			(at 309.88 104.14 0)
 			(show_name yes)
 			(effects
@@ -14339,7 +14377,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "1005"
+		(property "Description" "RES SMD 0 Ω 5% 0402 50V"
 			(at 312.42 104.14 0)
 			(show_name yes)
 			(effects
@@ -14350,7 +14388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Component Type" "Resistor"
+		(property "Case Code - in" "0402"
 			(at 314.96 104.14 0)
 			(show_name yes)
 			(effects
@@ -14361,7 +14399,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-2GE0R00X"
+		(property "Case Code - mm" "1005"
 			(at 317.5 104.14 0)
 			(show_name yes)
 			(effects
@@ -14372,7 +14410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Component Type" "Resistor"
 			(at 320.04 104.14 0)
 			(show_name yes)
 			(effects
@@ -14383,7 +14421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2GE0"
+		(property "MPN" "ERJ-2GE0R00X"
 			(at 322.58 104.14 0)
 			(show_name yes)
 			(effects
@@ -14394,7 +14432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-2GE0R00X"
+		(property "Manufacturer" "Panasonic"
 			(at 325.12 104.14 0)
 			(show_name yes)
 			(effects
@@ -14405,7 +14443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Temperature Coefficient" "200 ppm/°C"
+		(property "Series" "ERJ-2GE0"
 			(at 327.66 104.14 0)
 			(show_name yes)
 			(effects
@@ -14416,7 +14454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Symbol Name" "R_ERJ-2GE0R00X"
 			(at 330.2 104.14 0)
 			(show_name yes)
 			(effects
@@ -14427,7 +14465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GE0R00X"
+		(property "Temperature Coefficient" "200 ppm/°C"
 			(at 332.74 104.14 0)
 			(show_name yes)
 			(effects
@@ -14438,8 +14476,30 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Tolerance" "5%"
 			(at 335.28 104.14 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GE0R00X"
+			(at 337.82 104.14 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 340.36 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14619,7 +14679,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 353.06 96.52 0)
+		(at 358.14 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14628,7 +14688,7 @@
 		(fields_autoplaced yes)
 		(uuid "1d5c80ab-b334-49b4-aaeb-cc933458a65e")
 		(property "Reference" "#PWR026"
-			(at 353.06 102.87 0)
+			(at 358.14 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14637,7 +14697,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 355.6 97.7899 0)
+			(at 360.68 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14646,7 +14706,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 353.06 96.52 0)
+			(at 358.14 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14655,7 +14715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 353.06 96.52 0)
+			(at 358.14 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14664,7 +14724,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 353.06 96.52 0)
+			(at 358.14 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15111,7 +15171,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 243.84 143.51 0)
+		(at 228.6 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15120,7 +15180,7 @@
 		(fields_autoplaced yes)
 		(uuid "2670d485-b6ba-40b6-b014-2cb0f9a24369")
 		(property "Reference" "#PWR021"
-			(at 243.84 149.86 0)
+			(at 228.6 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15129,7 +15189,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 243.84 148.59 0)
+			(at 228.6 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15137,7 +15197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 143.51 0)
+			(at 228.6 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15146,7 +15206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 143.51 0)
+			(at 228.6 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15155,7 +15215,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 243.84 143.51 0)
+			(at 228.6 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15506,15 +15566,16 @@
 	)
 	(symbol
 		(lib_id "DIODES_1N4148WX-TP_DATA_BASE:D_1N4148WX-TP")
-		(at 261.62 88.9 270)
+		(at 264.16 87.63 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "31dfdf11-06c4-4e70-ae04-1fdc3fecbdde")
 		(property "Reference" "D7"
-			(at 257.81 87.9474 90)
+			(at 260.35 86.6774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15523,7 +15584,7 @@
 			)
 		)
 		(property "Value" "100 V"
-			(at 257.81 90.4874 90)
+			(at 260.35 89.2174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15532,7 +15593,7 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:SOD323"
-			(at 254 88.9 0)
+			(at 256.54 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15543,7 +15604,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD-323).pdf"
-			(at 251.46 88.9 0)
+			(at 254 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15554,7 +15615,7 @@
 			)
 		)
 		(property "Description" "Zener SMD 100 V"
-			(at 248.92 88.9 0)
+			(at 251.46 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15565,7 +15626,7 @@
 			)
 		)
 		(property "Diode Type" "Zener"
-			(at 246.38 88.9 0)
+			(at 248.92 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15576,7 +15637,7 @@
 			)
 		)
 		(property "MPN" "1N4148WX-TP"
-			(at 243.84 88.9 0)
+			(at 246.38 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15587,7 +15648,7 @@
 			)
 		)
 		(property "Manufacturer" "Micro Commercial Components"
-			(at 241.3 88.9 0)
+			(at 243.84 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15598,7 +15659,7 @@
 			)
 		)
 		(property "Maximum DC Current (A)" "0.0"
-			(at 238.76 88.9 0)
+			(at 241.3 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15609,7 +15670,7 @@
 			)
 		)
 		(property "Series" "1N4148WX-TP"
-			(at 236.22 88.9 0)
+			(at 238.76 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15620,7 +15681,7 @@
 			)
 		)
 		(property "Symbol Name" "D_1N4148WX-TP"
-			(at 233.68 88.9 0)
+			(at 236.22 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15631,7 +15692,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/1N4148WX-TP"
-			(at 231.14 88.9 0)
+			(at 233.68 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15658,7 +15719,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 337.82 88.9 270)
+		(at 342.9 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15667,7 +15728,7 @@
 		(fields_autoplaced yes)
 		(uuid "32af26db-d960-4ab8-8b38-0eba8c0c47ab")
 		(property "Reference" "C14"
-			(at 341.63 87.6299 90)
+			(at 346.71 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15676,7 +15737,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 341.63 90.1699 90)
+			(at 346.71 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15685,7 +15746,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 330.2 88.9 0)
+			(at 335.28 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15696,7 +15757,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 327.66 88.9 0)
+			(at 332.74 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15707,7 +15768,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 325.12 88.9 0)
+			(at 330.2 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15718,7 +15779,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 322.58 88.9 0)
+			(at 327.66 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15729,7 +15790,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 320.04 88.9 0)
+			(at 325.12 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15740,7 +15801,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 317.5 88.9 0)
+			(at 322.58 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15751,7 +15812,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 314.96 88.9 0)
+			(at 320.04 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15762,7 +15823,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 312.42 88.9 0)
+			(at 317.5 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15773,7 +15834,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 309.88 88.9 0)
+			(at 314.96 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15784,7 +15845,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 307.34 88.9 0)
+			(at 312.42 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15795,7 +15856,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 304.8 88.9 0)
+			(at 309.88 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15806,7 +15867,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 302.26 88.9 0)
+			(at 307.34 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15817,7 +15878,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 299.72 88.9 0)
+			(at 304.8 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -15828,7 +15889,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 297.18 88.9 0)
+			(at 302.26 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16012,16 +16073,17 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GCM155R71H_DATA_BASE:C_GCM155R71H103KA55D")
-		(at 261.62 100.33 90)
+		(at 264.16 99.06 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "346b14f7-b298-48c2-a82b-fcf903c73f0e")
 		(property "Reference" "C11"
-			(at 257.81 99.0599 90)
+			(at 260.35 97.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16030,7 +16092,7 @@
 			)
 		)
 		(property "Value" "10 nF"
-			(at 257.81 101.5999 90)
+			(at 260.35 100.3299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16039,7 +16101,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_0402_1005Metric"
-			(at 269.24 100.33 0)
+			(at 271.78 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16050,7 +16112,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H103KA55-01.pdf"
-			(at 271.78 100.33 0)
+			(at 274.32 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16061,7 +16123,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 10 nF X7R 10% 0402 50V"
-			(at 274.32 100.33 0)
+			(at 276.86 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16072,7 +16134,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 276.86 100.33 0)
+			(at 279.4 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16083,7 +16145,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 279.4 100.33 0)
+			(at 281.94 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16094,7 +16156,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 281.94 100.33 0)
+			(at 284.48 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16105,7 +16167,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 284.48 100.33 0)
+			(at 287.02 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16116,7 +16178,7 @@
 			)
 		)
 		(property "MPN" "GCM155R71H103KA55D"
-			(at 287.02 100.33 0)
+			(at 289.56 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16127,7 +16189,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 289.56 100.33 0)
+			(at 292.1 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16138,7 +16200,7 @@
 			)
 		)
 		(property "Series" "GCM155R71H"
-			(at 292.1 100.33 0)
+			(at 294.64 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16149,7 +16211,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GCM155R71H103KA55D"
-			(at 294.64 100.33 0)
+			(at 297.18 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16160,7 +16222,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 297.18 100.33 0)
+			(at 299.72 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16171,7 +16233,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM155R71H103KA55D"
-			(at 299.72 100.33 0)
+			(at 302.26 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16182,7 +16244,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 302.26 100.33 0)
+			(at 304.8 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16209,7 +16271,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_BSC014N04LSI_DATA_BASE:Q_BSC014N04LSI")
-		(at 241.3 123.19 0)
+		(at 226.06 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16218,7 +16280,7 @@
 		(fields_autoplaced yes)
 		(uuid "3594272a-e1a4-4a06-a463-9d8f5d4a48ec")
 		(property "Reference" "Q3"
-			(at 241.3 116.84 0)
+			(at 226.06 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16226,7 +16288,7 @@
 			)
 		)
 		(property "Value" "40 V"
-			(at 241.3 119.38 0)
+			(at 226.06 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16234,7 +16296,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:TDSON-8 FL"
-			(at 241.3 133.35 0)
+			(at 226.06 133.35 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16245,7 +16307,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsc014n04lsi-datasheet-en.pdf"
-			(at 241.3 135.89 0)
+			(at 226.06 135.89 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16256,7 +16318,7 @@
 			)
 		)
 		(property "Description" "Transistor 40 V"
-			(at 241.3 138.43 0)
+			(at 226.06 138.43 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16267,7 +16329,7 @@
 			)
 		)
 		(property "Drain Current (A)" "195.0"
-			(at 241.3 140.97 0)
+			(at 226.06 140.97 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16278,7 +16340,7 @@
 			)
 		)
 		(property "MPN" "BSC014N04LSI"
-			(at 241.3 143.51 0)
+			(at 226.06 143.51 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16289,7 +16351,7 @@
 			)
 		)
 		(property "Manufacturer" "Infineon Technologies"
-			(at 241.3 146.05 0)
+			(at 226.06 146.05 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16300,7 +16362,7 @@
 			)
 		)
 		(property "Series" "BSC014N04LSI"
-			(at 241.3 148.59 0)
+			(at 226.06 148.59 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16311,7 +16373,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_BSC014N04LSI"
-			(at 241.3 151.13 0)
+			(at 226.06 151.13 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16322,7 +16384,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 241.3 153.67 0)
+			(at 226.06 153.67 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16333,7 +16395,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSC014N04LSI"
-			(at 241.3 156.21 0)
+			(at 226.06 156.21 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16718,7 +16780,7 @@
 	)
 	(symbol
 		(lib_id "DIODES_1N4148WX-TP_DATA_BASE:D_1N4148WX-TP")
-		(at 238.76 106.68 0)
+		(at 222.25 104.14 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16728,7 +16790,7 @@
 		(fields_autoplaced yes)
 		(uuid "46432f79-984e-4b36-9200-9883f6986048")
 		(property "Reference" "D6"
-			(at 239.0775 100.33 0)
+			(at 222.5675 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16736,7 +16798,7 @@
 			)
 		)
 		(property "Value" "100 V"
-			(at 239.0775 102.87 0)
+			(at 222.5675 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16744,7 +16806,7 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:SOD323"
-			(at 238.76 99.06 0)
+			(at 222.25 96.52 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16755,7 +16817,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD-323).pdf"
-			(at 238.76 96.52 0)
+			(at 222.25 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16766,7 +16828,7 @@
 			)
 		)
 		(property "Description" "Zener SMD 100 V"
-			(at 238.76 93.98 0)
+			(at 222.25 91.44 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16777,7 +16839,7 @@
 			)
 		)
 		(property "Diode Type" "Zener"
-			(at 238.76 91.44 0)
+			(at 222.25 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16788,7 +16850,7 @@
 			)
 		)
 		(property "MPN" "1N4148WX-TP"
-			(at 238.76 88.9 0)
+			(at 222.25 86.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16799,7 +16861,7 @@
 			)
 		)
 		(property "Manufacturer" "Micro Commercial Components"
-			(at 238.76 86.36 0)
+			(at 222.25 83.82 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16810,7 +16872,7 @@
 			)
 		)
 		(property "Maximum DC Current (A)" "0.0"
-			(at 238.76 83.82 0)
+			(at 222.25 81.28 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16821,7 +16883,7 @@
 			)
 		)
 		(property "Series" "1N4148WX-TP"
-			(at 238.76 81.28 0)
+			(at 222.25 78.74 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16832,7 +16894,7 @@
 			)
 		)
 		(property "Symbol Name" "D_1N4148WX-TP"
-			(at 238.76 78.74 0)
+			(at 222.25 76.2 0)
 			(show_name yes)
 			(effects
 				(font
@@ -16843,7 +16905,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/1N4148WX-TP"
-			(at 238.76 76.2 0)
+			(at 222.25 73.66 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17232,7 +17294,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 383.54 88.9 270)
+		(at 388.62 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17241,7 +17303,7 @@
 		(fields_autoplaced yes)
 		(uuid "519c2a59-ca3b-46f0-912f-71950b4f5da1")
 		(property "Reference" "C17"
-			(at 387.35 87.6299 90)
+			(at 392.43 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17250,7 +17312,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 387.35 90.1699 90)
+			(at 392.43 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17259,7 +17321,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 375.92 88.9 0)
+			(at 381 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17270,7 +17332,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 373.38 88.9 0)
+			(at 378.46 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17281,7 +17343,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 370.84 88.9 0)
+			(at 375.92 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17292,7 +17354,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 368.3 88.9 0)
+			(at 373.38 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17303,7 +17365,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 365.76 88.9 0)
+			(at 370.84 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17314,7 +17376,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 363.22 88.9 0)
+			(at 368.3 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17325,7 +17387,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 360.68 88.9 0)
+			(at 365.76 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17336,7 +17398,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 358.14 88.9 0)
+			(at 363.22 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17347,7 +17409,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 355.6 88.9 0)
+			(at 360.68 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17358,7 +17420,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 353.06 88.9 0)
+			(at 358.14 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17369,7 +17431,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 350.52 88.9 0)
+			(at 355.6 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17380,7 +17442,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 347.98 88.9 0)
+			(at 353.06 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17391,7 +17453,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 345.44 88.9 0)
+			(at 350.52 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17402,7 +17464,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 342.9 88.9 0)
+			(at 347.98 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17821,17 +17883,15 @@
 	)
 	(symbol
 		(lib_id "DIODES_B240A-13-F_DATA_BASE:D_B240A-13-F")
-		(at 269.24 93.98 270)
-		(mirror x)
+		(at 274.32 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "53d14b88-f04c-491e-ae46-a08a2f16fbe9")
 		(property "Reference" "D10"
-			(at 273.05 92.3924 90)
+			(at 270.51 93.6624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17840,7 +17900,7 @@
 			)
 		)
 		(property "Value" "40 V"
-			(at 273.05 94.9324 90)
+			(at 270.51 96.2024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17849,7 +17909,7 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:SMA"
-			(at 261.62 93.98 0)
+			(at 281.94 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17860,7 +17920,7 @@
 			)
 		)
 		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0001756908/DIOD-S-A0001756908-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
-			(at 259.08 93.98 0)
+			(at 284.48 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17871,7 +17931,7 @@
 			)
 		)
 		(property "Description" "Schottky SMD 40 V"
-			(at 256.54 93.98 0)
+			(at 287.02 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17882,7 +17942,7 @@
 			)
 		)
 		(property "Diode Type" "Schottky"
-			(at 254 93.98 0)
+			(at 289.56 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17893,7 +17953,7 @@
 			)
 		)
 		(property "MPN" "B240A-13-F"
-			(at 251.46 93.98 0)
+			(at 292.1 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17904,7 +17964,7 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 248.92 93.98 0)
+			(at 294.64 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17915,7 +17975,7 @@
 			)
 		)
 		(property "Maximum DC Current (A)" "2.0"
-			(at 246.38 93.98 0)
+			(at 297.18 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17926,7 +17986,7 @@
 			)
 		)
 		(property "Series" "B240A-13-F"
-			(at 243.84 93.98 0)
+			(at 299.72 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17937,7 +17997,7 @@
 			)
 		)
 		(property "Symbol Name" "D_B240A-13-F"
-			(at 241.3 93.98 0)
+			(at 302.26 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -17948,7 +18008,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/B240A-13-F"
-			(at 238.76 93.98 0)
+			(at 304.8 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18326,7 +18386,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 322.58 96.52 0)
+		(at 327.66 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18335,7 +18395,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a84ae66-4514-4165-a4e3-0f725c950b85")
 		(property "Reference" "#PWR024"
-			(at 322.58 102.87 0)
+			(at 327.66 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18344,7 +18404,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 325.12 97.7899 0)
+			(at 330.2 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18353,7 +18413,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 322.58 96.52 0)
+			(at 327.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18362,7 +18422,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 96.52 0)
+			(at 327.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18371,7 +18431,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 322.58 96.52 0)
+			(at 327.66 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18393,7 +18453,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1002X")
-		(at 284.48 104.14 270)
+		(at 289.56 104.14 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18402,7 +18462,7 @@
 		(dnp no)
 		(uuid "65875a39-13a9-48e9-9aa0-2092f8aa6e47")
 		(property "Reference" "R11"
-			(at 287.02 102.8699 90)
+			(at 292.1 102.8699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18411,7 +18471,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 287.02 105.4099 90)
+			(at 292.1 105.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18420,7 +18480,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 279.4 104.14 0)
+			(at 284.48 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18431,7 +18491,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 276.86 104.14 0)
+			(at 281.94 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18442,7 +18502,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0402 50V"
-			(at 274.32 104.14 0)
+			(at 279.4 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18453,7 +18513,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 271.78 104.14 0)
+			(at 276.86 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18464,7 +18524,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 269.24 104.14 0)
+			(at 274.32 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18475,7 +18535,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 266.7 104.14 0)
+			(at 271.78 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18486,7 +18546,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF1002X"
-			(at 264.16 104.14 0)
+			(at 269.24 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18497,7 +18557,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 104.14 0)
+			(at 266.7 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18508,7 +18568,7 @@
 			)
 		)
 		(property "Series" "ERJ-2RKF"
-			(at 259.08 104.14 0)
+			(at 264.16 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18519,7 +18579,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-2RKF1002X"
-			(at 256.54 104.14 0)
+			(at 261.62 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18530,7 +18590,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 254 104.14 0)
+			(at 259.08 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18541,7 +18601,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 251.46 104.14 0)
+			(at 256.54 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18552,7 +18612,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF1002X"
-			(at 248.92 104.14 0)
+			(at 254 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -18563,7 +18623,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 246.38 104.14 0)
+			(at 251.46 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -19048,7 +19108,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 276.86 123.19 0)
+		(at 281.94 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19057,7 +19117,7 @@
 		(fields_autoplaced yes)
 		(uuid "737e3cea-30bc-4a14-90d4-bd3f17573520")
 		(property "Reference" "#PWR020"
-			(at 276.86 129.54 0)
+			(at 281.94 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19066,7 +19126,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 276.86 128.27 0)
+			(at 281.94 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19074,7 +19134,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 123.19 0)
+			(at 281.94 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19083,7 +19143,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 123.19 0)
+			(at 281.94 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19092,7 +19152,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 276.86 123.19 0)
+			(at 281.94 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20054,7 +20114,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_BSC014N04LSI_DATA_BASE:Q_BSC014N04LSI")
-		(at 278.13 91.44 90)
+		(at 283.21 91.44 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20064,7 +20124,7 @@
 		(fields_autoplaced yes)
 		(uuid "83b8f764-a823-4d30-ab56-4b6370d3308a")
 		(property "Reference" "Q4"
-			(at 285.75 90.1699 90)
+			(at 290.83 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20073,7 +20133,7 @@
 			)
 		)
 		(property "Value" "40 V"
-			(at 285.75 92.7099 90)
+			(at 290.83 92.7099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20082,28 +20142,6 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:TDSON-8 FL"
-			(at 288.29 91.44 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsc014n04lsi-datasheet-en.pdf"
-			(at 290.83 91.44 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Transistor 40 V"
 			(at 293.37 91.44 0)
 			(show_name yes)
 			(effects
@@ -20114,7 +20152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Drain Current (A)" "195.0"
+		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-bsc014n04lsi-datasheet-en.pdf"
 			(at 295.91 91.44 0)
 			(show_name yes)
 			(effects
@@ -20125,7 +20163,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BSC014N04LSI"
+		(property "Description" "Transistor 40 V"
 			(at 298.45 91.44 0)
 			(show_name yes)
 			(effects
@@ -20136,7 +20174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Infineon Technologies"
+		(property "Drain Current (A)" "195.0"
 			(at 300.99 91.44 0)
 			(show_name yes)
 			(effects
@@ -20147,7 +20185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "BSC014N04LSI"
+		(property "MPN" "BSC014N04LSI"
 			(at 303.53 91.44 0)
 			(show_name yes)
 			(effects
@@ -20158,7 +20196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "Q_BSC014N04LSI"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 306.07 91.44 0)
 			(show_name yes)
 			(effects
@@ -20169,7 +20207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Transistor Type" "N-Channel"
+		(property "Series" "BSC014N04LSI"
 			(at 308.61 91.44 0)
 			(show_name yes)
 			(effects
@@ -20180,8 +20218,30 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSC014N04LSI"
+		(property "Symbol Name" "Q_BSC014N04LSI"
 			(at 311.15 91.44 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 313.69 91.44 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/BSC014N04LSI"
+			(at 316.23 91.44 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20414,7 +20474,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 307.34 96.52 0)
+		(at 312.42 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20423,7 +20483,7 @@
 		(fields_autoplaced yes)
 		(uuid "881faae5-8309-4ec3-9dee-bb563192f9ae")
 		(property "Reference" "#PWR023"
-			(at 307.34 102.87 0)
+			(at 312.42 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20432,7 +20492,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 309.88 97.7899 0)
+			(at 314.96 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20441,7 +20501,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 307.34 96.52 0)
+			(at 312.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20450,7 +20510,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 307.34 96.52 0)
+			(at 312.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20459,7 +20519,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 307.34 96.52 0)
+			(at 312.42 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20679,7 +20739,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 368.3 88.9 270)
+		(at 373.38 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20688,7 +20748,7 @@
 		(fields_autoplaced yes)
 		(uuid "8bc15d4e-78ac-471f-be89-fba80184cbb8")
 		(property "Reference" "C16"
-			(at 372.11 87.6299 90)
+			(at 377.19 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20697,7 +20757,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 372.11 90.1699 90)
+			(at 377.19 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20706,7 +20766,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 360.68 88.9 0)
+			(at 365.76 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20717,7 +20777,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 358.14 88.9 0)
+			(at 363.22 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20728,7 +20788,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 355.6 88.9 0)
+			(at 360.68 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20739,7 +20799,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 353.06 88.9 0)
+			(at 358.14 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20750,7 +20810,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 350.52 88.9 0)
+			(at 355.6 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20761,7 +20821,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 347.98 88.9 0)
+			(at 353.06 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20772,7 +20832,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 345.44 88.9 0)
+			(at 350.52 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20783,7 +20843,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 342.9 88.9 0)
+			(at 347.98 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20794,7 +20854,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 340.36 88.9 0)
+			(at 345.44 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20805,7 +20865,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 337.82 88.9 0)
+			(at 342.9 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20816,7 +20876,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 335.28 88.9 0)
+			(at 340.36 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20827,7 +20887,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 332.74 88.9 0)
+			(at 337.82 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20838,7 +20898,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 330.2 88.9 0)
+			(at 335.28 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -20849,7 +20909,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 327.66 88.9 0)
+			(at 332.74 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21334,7 +21394,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1002X")
-		(at 254 93.98 0)
+		(at 250.19 93.98 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21344,7 +21404,7 @@
 		(fields_autoplaced yes)
 		(uuid "97fef225-97e3-464a-85cd-f1f4ae749254")
 		(property "Reference" "R14"
-			(at 254 97.79 0)
+			(at 250.19 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21352,7 +21412,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 254 100.33 0)
+			(at 250.19 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21360,7 +21420,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 254 88.9 0)
+			(at 250.19 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21371,7 +21431,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 254 86.36 0)
+			(at 250.19 86.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21382,7 +21442,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0402 50V"
-			(at 254 83.82 0)
+			(at 250.19 83.82 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21393,7 +21453,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 254 81.28 0)
+			(at 250.19 81.28 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21404,7 +21464,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 254 78.74 0)
+			(at 250.19 78.74 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21415,7 +21475,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 254 76.2 0)
+			(at 250.19 76.2 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21426,7 +21486,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF1002X"
-			(at 254 73.66 0)
+			(at 250.19 73.66 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21437,7 +21497,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 254 71.12 0)
+			(at 250.19 71.12 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21448,7 +21508,7 @@
 			)
 		)
 		(property "Series" "ERJ-2RKF"
-			(at 254 68.58 0)
+			(at 250.19 68.58 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21459,7 +21519,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-2RKF1002X"
-			(at 254 66.04 0)
+			(at 250.19 66.04 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21470,7 +21530,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 254 63.5 0)
+			(at 250.19 63.5 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21481,7 +21541,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 254 60.96 0)
+			(at 250.19 60.96 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21492,7 +21552,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF1002X"
-			(at 254 58.42 0)
+			(at 250.19 58.42 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21503,7 +21563,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 254 55.88 0)
+			(at 250.19 55.88 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21530,7 +21590,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2GE0_DATA_BASE:R_ERJ-2GE0R00X")
-		(at 259.08 137.16 90)
+		(at 241.3 137.16 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21539,7 +21599,7 @@
 		(fields_autoplaced yes)
 		(uuid "9be6ec19-0c3c-4035-b03b-15ed3dcc3c95")
 		(property "Reference" "R9"
-			(at 261.62 135.8899 90)
+			(at 243.84 135.8899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21548,7 +21608,7 @@
 			)
 		)
 		(property "Value" "0 Ω"
-			(at 261.62 138.4299 90)
+			(at 243.84 138.4299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21557,7 +21617,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 264.16 137.16 0)
+			(at 246.38 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21568,7 +21628,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 266.7 137.16 0)
+			(at 248.92 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21579,7 +21639,7 @@
 			)
 		)
 		(property "Description" "RES SMD 0 Ω 5% 0402 50V"
-			(at 269.24 137.16 0)
+			(at 251.46 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21590,7 +21650,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 271.78 137.16 0)
+			(at 254 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21601,7 +21661,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 274.32 137.16 0)
+			(at 256.54 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21612,7 +21672,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 276.86 137.16 0)
+			(at 259.08 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21623,7 +21683,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2GE0R00X"
-			(at 279.4 137.16 0)
+			(at 261.62 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21634,7 +21694,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 281.94 137.16 0)
+			(at 264.16 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21645,7 +21705,7 @@
 			)
 		)
 		(property "Series" "ERJ-2GE0"
-			(at 284.48 137.16 0)
+			(at 266.7 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21656,7 +21716,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-2GE0R00X"
-			(at 287.02 137.16 0)
+			(at 269.24 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21667,7 +21727,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "200 ppm/°C"
-			(at 289.56 137.16 0)
+			(at 271.78 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21678,7 +21738,7 @@
 			)
 		)
 		(property "Tolerance" "5%"
-			(at 292.1 137.16 0)
+			(at 274.32 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21689,7 +21749,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2GE0R00X"
-			(at 294.64 137.16 0)
+			(at 276.86 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21700,7 +21760,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 297.18 137.16 0)
+			(at 279.4 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21859,16 +21919,17 @@
 	)
 	(symbol
 		(lib_id "DIODES_B240A-13-F_DATA_BASE:D_B240A-13-F")
-		(at 243.84 114.3 0)
+		(at 229.87 114.3 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "a2f7d827-c6ef-4a30-8732-0a155fe2c936")
 		(property "Reference" "D9"
-			(at 243.5225 107.95 0)
+			(at 229.5525 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21876,7 +21937,7 @@
 			)
 		)
 		(property "Value" "40 V"
-			(at 243.5225 110.49 0)
+			(at 229.5525 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21884,7 +21945,7 @@
 			)
 		)
 		(property "Footprint" "diode_footprints:SMA"
-			(at 243.84 121.92 0)
+			(at 229.87 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21895,7 +21956,7 @@
 			)
 		)
 		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0001756908/DIOD-S-A0001756908-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
-			(at 243.84 124.46 0)
+			(at 229.87 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21906,7 +21967,7 @@
 			)
 		)
 		(property "Description" "Schottky SMD 40 V"
-			(at 243.84 127 0)
+			(at 229.87 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21917,7 +21978,7 @@
 			)
 		)
 		(property "Diode Type" "Schottky"
-			(at 243.84 129.54 0)
+			(at 229.87 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21928,7 +21989,7 @@
 			)
 		)
 		(property "MPN" "B240A-13-F"
-			(at 243.84 132.08 0)
+			(at 229.87 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21939,7 +22000,7 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 243.84 134.62 0)
+			(at 229.87 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21950,7 +22011,7 @@
 			)
 		)
 		(property "Maximum DC Current (A)" "2.0"
-			(at 243.84 137.16 0)
+			(at 229.87 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21961,7 +22022,7 @@
 			)
 		)
 		(property "Series" "B240A-13-F"
-			(at 243.84 139.7 0)
+			(at 229.87 139.7 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21972,7 +22033,7 @@
 			)
 		)
 		(property "Symbol Name" "D_B240A-13-F"
-			(at 243.84 142.24 0)
+			(at 229.87 142.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -21983,7 +22044,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/B240A-13-F"
-			(at 243.84 144.78 0)
+			(at 229.87 144.78 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22274,7 +22335,7 @@
 	)
 	(symbol
 		(lib_id "INDUCTORS_74439369_DATA_BASE:L_74439369022")
-		(at 289.56 81.28 0)
+		(at 294.64 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22283,7 +22344,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8b85154-95d5-4e2a-ab78-6c1ba0bc2c9e")
 		(property "Reference" "L2"
-			(at 289.56 74.93 0)
+			(at 294.64 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22291,7 +22352,7 @@
 			)
 		)
 		(property "Value" "2.2 µH"
-			(at 289.56 77.47 0)
+			(at 294.64 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22299,7 +22360,7 @@
 			)
 		)
 		(property "Footprint" "inductor_footprints:74439369"
-			(at 289.56 86.36 0)
+			(at 294.64 86.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22310,7 +22371,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/022.pdf"
-			(at 289.56 88.9 0)
+			(at 294.64 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22321,7 +22382,7 @@
 			)
 		)
 		(property "Description" "INDUCTOR SMD 2.2 µH ±20%"
-			(at 289.56 91.44 0)
+			(at 294.64 91.44 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22332,7 +22393,7 @@
 			)
 		)
 		(property "MPN" "74439369022"
-			(at 289.56 93.98 0)
+			(at 294.64 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22343,7 +22404,7 @@
 			)
 		)
 		(property "Manufacturer" "Wurth Elektronik"
-			(at 289.56 96.52 0)
+			(at 294.64 96.52 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22354,7 +22415,7 @@
 			)
 		)
 		(property "Maximum DC Current (A)" "32.0"
-			(at 289.56 99.06 0)
+			(at 294.64 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22365,7 +22426,7 @@
 			)
 		)
 		(property "Maximum DC Resistance (Ω)" "2.420"
-			(at 289.56 101.6 0)
+			(at 294.64 101.6 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22376,7 +22437,7 @@
 			)
 		)
 		(property "Series" "74439369"
-			(at 289.56 104.14 0)
+			(at 294.64 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22387,7 +22448,7 @@
 			)
 		)
 		(property "Symbol Name" "L_74439369022"
-			(at 289.56 106.68 0)
+			(at 294.64 106.68 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22398,7 +22459,7 @@
 			)
 		)
 		(property "Tolerance" "±20%"
-			(at 289.56 109.22 0)
+			(at 294.64 109.22 0)
 			(show_name yes)
 			(effects
 				(font
@@ -22409,7 +22470,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/74439369022"
-			(at 289.56 111.76 0)
+			(at 294.64 111.76 0)
 			(show_name yes)
 			(effects
 				(font
@@ -23224,7 +23285,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 368.3 96.52 0)
+		(at 373.38 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23233,7 +23294,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7cc1986-eaac-46e8-99fa-6509cc3953a2")
 		(property "Reference" "#PWR027"
-			(at 368.3 102.87 0)
+			(at 373.38 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23242,7 +23303,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 370.84 97.7899 0)
+			(at 375.92 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23251,7 +23312,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 368.3 96.52 0)
+			(at 373.38 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23260,7 +23321,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 368.3 96.52 0)
+			(at 373.38 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23269,7 +23330,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 368.3 96.52 0)
+			(at 373.38 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24830,7 +24891,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 337.82 96.52 0)
+		(at 342.9 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24839,7 +24900,7 @@
 		(fields_autoplaced yes)
 		(uuid "eda7f041-da59-4735-b541-f8eef091424c")
 		(property "Reference" "#PWR025"
-			(at 337.82 102.87 0)
+			(at 342.9 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24848,7 +24909,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 340.36 97.7899 0)
+			(at 345.44 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24857,7 +24918,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 337.82 96.52 0)
+			(at 342.9 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24866,7 +24927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 337.82 96.52 0)
+			(at 342.9 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24875,7 +24936,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 337.82 96.52 0)
+			(at 342.9 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25253,7 +25314,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 383.54 96.52 0)
+		(at 388.62 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25262,7 +25323,7 @@
 		(fields_autoplaced yes)
 		(uuid "f117e665-7835-4eb3-8887-65e85146bd34")
 		(property "Reference" "#PWR028"
-			(at 383.54 102.87 0)
+			(at 388.62 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25271,7 +25332,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 386.08 97.7899 0)
+			(at 391.16 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25280,7 +25341,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 383.54 96.52 0)
+			(at 388.62 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25289,7 +25350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 383.54 96.52 0)
+			(at 388.62 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25298,7 +25359,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 383.54 96.52 0)
+			(at 388.62 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25387,7 +25448,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GRM31CR60J_DATA_BASE:C_GRM31CR60J227ME11K")
-		(at 322.58 88.9 270)
+		(at 327.66 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25396,7 +25457,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1cd665c-6e3f-4e53-a15a-403e1999391d")
 		(property "Reference" "C13"
-			(at 326.39 87.6299 90)
+			(at 331.47 87.6299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25405,7 +25466,7 @@
 			)
 		)
 		(property "Value" "220 µF"
-			(at 326.39 90.1699 90)
+			(at 331.47 90.1699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25414,7 +25475,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
-			(at 314.96 88.9 0)
+			(at 320.04 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25425,7 +25486,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01.pdf"
-			(at 312.42 88.9 0)
+			(at 317.5 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25436,7 +25497,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 220 µF X5R 20% 1206 6.3V"
-			(at 309.88 88.9 0)
+			(at 314.96 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25447,7 +25508,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 307.34 88.9 0)
+			(at 312.42 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25458,7 +25519,7 @@
 			)
 		)
 		(property "Case Code - in" "1206"
-			(at 304.8 88.9 0)
+			(at 309.88 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25469,7 +25530,7 @@
 			)
 		)
 		(property "Case Code - mm" "3216"
-			(at 302.26 88.9 0)
+			(at 307.34 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25480,7 +25541,7 @@
 			)
 		)
 		(property "Dielectric" "X5R"
-			(at 299.72 88.9 0)
+			(at 304.8 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25491,7 +25552,7 @@
 			)
 		)
 		(property "MPN" "GRM31CR60J227ME11K"
-			(at 297.18 88.9 0)
+			(at 302.26 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25502,7 +25563,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 294.64 88.9 0)
+			(at 299.72 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25513,7 +25574,7 @@
 			)
 		)
 		(property "Series" "GRM31CR60J"
-			(at 292.1 88.9 0)
+			(at 297.18 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25524,7 +25585,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GRM31CR60J227ME11K"
-			(at 289.56 88.9 0)
+			(at 294.64 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25535,7 +25596,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 287.02 88.9 0)
+			(at 292.1 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25546,7 +25607,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GRM31CR60J227ME11K"
-			(at 284.48 88.9 0)
+			(at 289.56 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25557,7 +25618,7 @@
 			)
 		)
 		(property "Voltage Rating" "6.3V"
-			(at 281.94 88.9 0)
+			(at 287.02 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25651,17 +25712,15 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1002X")
-		(at 243.84 99.06 90)
-		(mirror x)
+		(at 228.6 92.71 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f403917d-81df-4886-ae2c-fc224e40fd3d")
 		(property "Reference" "R13"
-			(at 246.38 97.7899 90)
+			(at 226.06 91.4399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25670,7 +25729,7 @@
 			)
 		)
 		(property "Value" "10 kΩ"
-			(at 246.38 100.3299 90)
+			(at 226.06 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25679,7 +25738,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
-			(at 248.92 99.06 0)
+			(at 223.52 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25690,7 +25749,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
-			(at 251.46 99.06 0)
+			(at 220.98 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25701,7 +25760,7 @@
 			)
 		)
 		(property "Description" "RES SMD 10 kΩ 1% 0402 50V"
-			(at 254 99.06 0)
+			(at 218.44 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25712,7 +25771,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 256.54 99.06 0)
+			(at 215.9 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25723,7 +25782,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 259.08 99.06 0)
+			(at 213.36 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25734,7 +25793,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 99.06 0)
+			(at 210.82 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25745,7 +25804,7 @@
 			)
 		)
 		(property "MPN" "ERJ-2RKF1002X"
-			(at 264.16 99.06 0)
+			(at 208.28 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25756,7 +25815,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 266.7 99.06 0)
+			(at 205.74 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25767,7 +25826,7 @@
 			)
 		)
 		(property "Series" "ERJ-2RKF"
-			(at 269.24 99.06 0)
+			(at 203.2 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25778,7 +25837,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-2RKF1002X"
-			(at 271.78 99.06 0)
+			(at 200.66 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25789,7 +25848,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "100 ppm/°C"
-			(at 274.32 99.06 0)
+			(at 198.12 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25800,7 +25859,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 276.86 99.06 0)
+			(at 195.58 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25811,7 +25870,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF1002X"
-			(at 279.4 99.06 0)
+			(at 193.04 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -25822,7 +25881,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 281.94 99.06 0)
+			(at 190.5 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26375,7 +26434,7 @@
 	)
 	(symbol
 		(lib_id "CAPACITORS_GCM155R71H_DATA_BASE:C_GCM155R71H103KA55D")
-		(at 250.19 106.68 0)
+		(at 233.68 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26384,7 +26443,7 @@
 		(fields_autoplaced yes)
 		(uuid "fe4c2606-c972-4cce-9869-57bc1ff441c4")
 		(property "Reference" "C10"
-			(at 250.19 99.06 0)
+			(at 233.68 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26392,7 +26451,7 @@
 			)
 		)
 		(property "Value" "10 nF"
-			(at 250.19 101.6 0)
+			(at 233.68 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26400,7 +26459,7 @@
 			)
 		)
 		(property "Footprint" "capacitor_footprints:C_0402_1005Metric"
-			(at 250.19 114.3 0)
+			(at 233.68 111.76 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26411,7 +26470,7 @@
 			)
 		)
 		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H103KA55-01.pdf"
-			(at 250.19 116.84 0)
+			(at 233.68 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26422,7 +26481,7 @@
 			)
 		)
 		(property "Description" "CAP SMD 10 nF X7R 10% 0402 50V"
-			(at 250.19 119.38 0)
+			(at 233.68 116.84 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26433,7 +26492,7 @@
 			)
 		)
 		(property "Capacitor Type" "Ceramic"
-			(at 250.19 121.92 0)
+			(at 233.68 119.38 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26444,7 +26503,7 @@
 			)
 		)
 		(property "Case Code - in" "0402"
-			(at 250.19 124.46 0)
+			(at 233.68 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26455,7 +26514,7 @@
 			)
 		)
 		(property "Case Code - mm" "1005"
-			(at 250.19 127 0)
+			(at 233.68 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26466,7 +26525,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 250.19 129.54 0)
+			(at 233.68 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26477,7 +26536,7 @@
 			)
 		)
 		(property "MPN" "GCM155R71H103KA55D"
-			(at 250.19 132.08 0)
+			(at 233.68 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26488,7 +26547,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
-			(at 250.19 134.62 0)
+			(at 233.68 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26499,7 +26558,7 @@
 			)
 		)
 		(property "Series" "GCM155R71H"
-			(at 250.19 137.16 0)
+			(at 233.68 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26510,7 +26569,7 @@
 			)
 		)
 		(property "Symbol Name" "C_GCM155R71H103KA55D"
-			(at 250.19 139.7 0)
+			(at 233.68 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26521,7 +26580,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 250.19 142.24 0)
+			(at 233.68 139.7 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26532,7 +26591,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/GCM155R71H103KA55D"
-			(at 250.19 144.78 0)
+			(at 233.68 142.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -26543,7 +26602,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 250.19 147.32 0)
+			(at 233.68 144.78 0)
 			(show_name yes)
 			(effects
 				(font
