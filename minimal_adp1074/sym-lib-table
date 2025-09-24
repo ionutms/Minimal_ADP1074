@@ -304,4 +304,5 @@
   (lib (name "INDUCTORS_74439369_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/INDUCTORS_74439369_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "TRANSISTORS_BSC014N04LSI_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_BSC014N04LSI_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "CAPACITORS_GRM31CR60J_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/CAPACITORS_GRM31CR60J_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "DIODES_B240A-13-F_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/DIODES_B240A-13-F_DATA_BASE.kicad_sym")(options "")(descr ""))
 )
