@@ -1,9 +1,6 @@
 name: Trigger Symbol Generator Check
 
 on:
-  push:
-    paths:
-      - '**/docs/pictures/**'
   repository_dispatch:
     types: [symbol-check-trigger]
   workflow_dispatch:
